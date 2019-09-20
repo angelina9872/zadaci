@@ -1,0 +1,25 @@
+1. Abstract: Metoda kojom se opisuje klasa,ona sadrzi metode i varijable ali od nje ne moze da se kreira objekat
+2. Enum: Deklarise grupu konstanti (nepromenljive varijable) koje se ovde pisu velikim slovima i razdvajaju zarezom
+3. Instanceof: Operator koji se koristi da bi se proverilo da li neki objekat odredjene klase ili podklase.Vraca vrednost true ili false
+4. Private: Modifikator pristupa koji cini atribute, metode ili konstruktore dostupnim samo unutar navedene klase
+5. Protected: Modifikator pristupa koji cini atribute, metode ili kostruktore dostupnim u okviru paketa i izvan njega ali samo preko nasledjivanja
+6. Public
+7. Default
+9. Static
+9. Strictfp
+10. Synchronized
+11. Transient
+12. Volatile
+13. Void
+14. Static
+15. Import
+16. Float
+17. Boolean
+18. Char
+19. Else
+20. If
+21. While
+22. For
+23. Catch
+24. Finally
+25. Break
